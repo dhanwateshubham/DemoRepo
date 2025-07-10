@@ -1,0 +1,541 @@
+14:35:45:622 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+14:35:45:636 [main] INFO  testCases.TC002_LoginTest - ***********************Finish loginValidData*********************
+14:35:45:650 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+14:35:45:777 [main] INFO  testCases.TC002_LoginTest - click on My Account
+14:35:46:176 [main] INFO  testCases.TC002_LoginTest - click on Login
+14:35:46:409 [main] INFO  testCases.TC002_LoginTest - enter username
+14:35:46:559 [main] INFO  testCases.TC002_LoginTest - enter Password
+14:35:47:619 [main] INFO  testCases.TC002_LoginTest - click on Login
+14:35:47:670 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+14:35:48:193 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+14:35:48:195 [main] INFO  testCases.TC002_LoginTest - ***********************Finish loginValidData*********************
+14:35:48:210 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+14:35:48:342 [main] INFO  testCases.TC002_LoginTest - click on My Account
+14:35:48:825 [main] INFO  testCases.TC002_LoginTest - click on Login
+14:35:49:035 [main] INFO  testCases.TC002_LoginTest - enter username
+14:35:49:164 [main] INFO  testCases.TC002_LoginTest - enter Password
+14:35:49:312 [main] INFO  testCases.TC002_LoginTest - click on Login
+14:35:54:960 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+14:35:55:138 [main] INFO  testCases.TC002_LoginTest - click on My Account
+14:35:55:527 [main] INFO  testCases.TC002_LoginTest - click on Login
+14:35:55:738 [main] INFO  testCases.TC002_LoginTest - enter username
+14:35:55:859 [main] INFO  testCases.TC002_LoginTest - enter Password
+14:35:56:712 [main] INFO  testCases.TC002_LoginTest - click on Login
+14:35:56:778 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+14:35:57:277 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+14:35:57:278 [main] INFO  testCases.TC002_LoginTest - ***********************Finish loginValidData*********************
+15:04:23:266 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\cross-Browser-Testing.xml
+
+15:04:39:184 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********************START TC001_AccountRegistrationTest*********************
+15:04:45:079 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********************FINISH TC001_AccountRegistrationTest*********************
+15:04:56:058 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+15:04:56:335 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:04:57:018 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:04:57:390 [main] INFO  testCases.TC002_LoginTest - enter username
+15:04:57:580 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:04:58:966 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:04:59:040 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+15:04:59:601 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+15:04:59:601 [main] INFO  testCases.TC002_LoginTest - ***********************Finish loginValidData*********************
+15:04:59:632 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+15:04:59:780 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:05:00:162 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:05:00:428 [main] INFO  testCases.TC002_LoginTest - enter username
+15:05:00:595 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:05:01:530 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:05:01:637 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+15:05:02:582 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+15:05:02:582 [main] INFO  testCases.TC002_LoginTest - ***********************Finish loginValidData*********************
+15:05:02:587 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+15:05:02:821 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:05:04:055 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:05:04:392 [main] INFO  testCases.TC002_LoginTest - enter username
+15:05:04:526 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:05:07:570 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:05:12:664 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+15:05:12:786 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:05:13:481 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:05:13:685 [main] INFO  testCases.TC002_LoginTest - enter username
+15:05:13:835 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:05:14:746 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:05:14:820 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+15:05:15:332 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+15:05:15:332 [main] INFO  testCases.TC002_LoginTest - ***********************Finish loginValidData*********************
+15:05:25:498 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********************START TC001_AccountRegistrationTest*********************
+15:05:30:297 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********************FINISH TC001_AccountRegistrationTest*********************
+15:05:35:257 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+15:05:35:517 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:05:36:086 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:05:36:358 [main] INFO  testCases.TC002_LoginTest - enter username
+15:05:36:515 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:05:37:527 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:05:37:628 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+15:05:38:146 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+15:05:38:146 [main] INFO  testCases.TC002_LoginTest - ***********************Finish loginValidData*********************
+15:05:38:161 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+15:05:38:282 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:05:38:732 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:05:38:933 [main] INFO  testCases.TC002_LoginTest - enter username
+15:05:39:060 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:05:40:128 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:05:40:179 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+15:05:40:648 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+15:05:40:649 [main] INFO  testCases.TC002_LoginTest - ***********************Finish loginValidData*********************
+15:05:40:682 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+15:05:40:800 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:05:41:147 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:05:41:370 [main] INFO  testCases.TC002_LoginTest - enter username
+15:05:41:498 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:05:42:371 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:05:47:414 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+15:05:47:549 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:05:47:960 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:05:48:162 [main] INFO  testCases.TC002_LoginTest - enter username
+15:05:48:297 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:05:49:131 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:05:49:201 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+15:05:49:735 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+15:05:49:735 [main] INFO  testCases.TC002_LoginTest - ***********************Finish loginValidData*********************
+15:06:05:448 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********************START TC001_AccountRegistrationTest*********************
+15:06:10:361 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********************FINISH TC001_AccountRegistrationTest*********************
+15:06:24:798 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+15:06:25:112 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:06:25:491 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:06:25:675 [main] INFO  testCases.TC002_LoginTest - enter username
+15:06:25:740 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:06:26:662 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:06:26:727 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+15:06:27:159 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+15:06:27:159 [main] INFO  testCases.TC002_LoginTest - ***********************Finish loginValidData*********************
+15:06:27:179 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+15:06:27:472 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:06:27:800 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:06:27:901 [main] INFO  testCases.TC002_LoginTest - enter username
+15:06:27:951 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:06:28:774 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:06:28:829 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+15:06:29:333 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+15:06:29:334 [main] INFO  testCases.TC002_LoginTest - ***********************Finish loginValidData*********************
+15:06:29:343 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+15:06:29:611 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:06:29:913 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:06:30:038 [main] INFO  testCases.TC002_LoginTest - enter username
+15:06:30:092 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:06:30:793 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:06:35:812 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+15:06:36:066 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:06:36:380 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:06:36:492 [main] INFO  testCases.TC002_LoginTest - enter username
+15:06:36:575 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:06:37:950 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:06:37:999 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+15:06:38:438 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+15:06:38:438 [main] INFO  testCases.TC002_LoginTest - ***********************Finish loginValidData*********************
+15:15:12:242 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\cross-Browser-Testing.xml
+
+15:15:19:970 [main] INFO  testCases.TC001_AccountRegistrationTest - **START TC001_AccountRegistrationTest**
+15:15:24:708 [main] INFO  testCases.TC001_AccountRegistrationTest - **FINISH TC001_AccountRegistrationTest**
+15:15:31:982 [main] INFO  testCases.TC002_LoginTest - **START loginValidData**
+15:15:32:154 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:15:32:595 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:15:32:860 [main] INFO  testCases.TC002_LoginTest - enter username
+15:15:33:041 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:15:33:977 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:15:34:056 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+15:15:34:932 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+15:15:34:932 [main] INFO  testCases.TC002_LoginTest - **Finish loginValidData**
+15:15:42:927 [main] INFO  testCases.TC001_AccountRegistrationTest - **START TC001_AccountRegistrationTest**
+15:15:49:896 [main] INFO  testCases.TC001_AccountRegistrationTest - **FINISH TC001_AccountRegistrationTest**
+15:15:54:040 [main] INFO  testCases.TC002_LoginTest - **START loginValidData**
+15:15:54:231 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:15:54:649 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:15:54:933 [main] INFO  testCases.TC002_LoginTest - enter username
+15:15:55:123 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:15:55:313 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:15:56:112 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+15:15:56:767 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+15:15:56:767 [main] INFO  testCases.TC002_LoginTest - **Finish loginValidData**
+15:16:06:085 [main] INFO  testCases.TC001_AccountRegistrationTest - **START TC001_AccountRegistrationTest**
+15:16:09:540 [main] INFO  testCases.TC001_AccountRegistrationTest - **FINISH TC001_AccountRegistrationTest**
+15:16:19:943 [main] INFO  testCases.TC002_LoginTest - **START loginValidData**
+15:16:20:303 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:16:20:704 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:16:20:900 [main] INFO  testCases.TC002_LoginTest - enter username
+15:16:20:966 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:16:21:854 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:16:21:921 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+15:16:22:359 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+15:16:22:359 [main] INFO  testCases.TC002_LoginTest - **Finish loginValidData**
+15:18:03:832 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\test-output\testng-failed.xml
+
+15:18:11:891 [main] INFO  testCases.TC002_LoginTest - **START loginValidData**
+15:18:12:120 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:18:12:669 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:18:12:945 [main] INFO  testCases.TC002_LoginTest - enter username
+15:18:13:113 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:18:13:932 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:18:14:045 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+15:18:14:548 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+15:18:14:556 [main] INFO  testCases.TC002_LoginTest - **Finish loginValidData**
+15:18:19:469 [main] INFO  testCases.TC002_LoginTest - **START loginValidData**
+15:18:19:674 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:18:20:123 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:18:20:476 [main] INFO  testCases.TC002_LoginTest - enter username
+15:18:20:674 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:18:21:898 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:18:21:969 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+15:18:22:470 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+15:18:22:471 [main] INFO  testCases.TC002_LoginTest - **Finish loginValidData**
+15:18:32:475 [main] INFO  testCases.TC002_LoginTest - **START loginValidData**
+15:18:32:882 [main] INFO  testCases.TC002_LoginTest - click on My Account
+15:18:33:431 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:18:33:665 [main] INFO  testCases.TC002_LoginTest - enter username
+15:18:33:733 [main] INFO  testCases.TC002_LoginTest - enter Password
+15:18:34:589 [main] INFO  testCases.TC002_LoginTest - click on Login
+15:18:34:650 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+15:18:35:114 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+15:18:35:114 [main] INFO  testCases.TC002_LoginTest - **Finish loginValidData**
+16:16:51:125 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:17:22:531 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:19:15:128 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:20:37:209 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:21:29:021 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:23:21:337 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:23:41:463 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:25:36:841 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:27:13:777 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:29:37:377 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:30:43:901 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:32:53:212 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:35:17:194 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:37:55:108 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:38:08:489 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+16:38:08:785 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+16:38:09:513 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:38:09:858 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+16:38:10:036 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+16:38:11:832 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:38:11:908 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+16:38:12:557 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+16:38:12:584 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+16:38:12:606 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+16:38:12:794 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+16:38:13:211 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:38:13:446 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+16:38:13:623 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+16:38:14:523 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:38:14:587 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+16:38:15:175 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+16:38:15:175 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+16:38:15:212 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+16:38:15:495 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+16:38:16:430 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:38:16:764 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+16:38:16:979 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+16:38:18:173 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:45:24:238 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:45:36:424 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+16:45:36:694 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+16:45:37:228 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:45:37:559 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+16:45:37:741 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+16:45:38:574 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:45:38:691 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+16:45:39:687 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+16:45:39:697 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+16:45:39:706 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+16:45:39:855 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+16:45:40:283 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:45:40:603 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+16:45:40:886 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+16:45:41:944 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:45:42:003 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+16:45:42:576 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+16:45:42:577 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+16:45:42:588 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+16:45:42:719 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+16:45:43:126 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:45:43:369 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+16:45:43:524 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+16:45:43:662 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:45:49:223 [main] INFO  testCases.TC003_LoginTest_DDT - Login Fail
+16:45:49:223 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+16:47:21:091 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:47:38:995 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+16:47:39:261 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+16:47:39:732 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:47:40:034 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+16:47:40:219 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+16:47:41:068 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:47:41:193 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+16:47:42:073 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+16:47:42:079 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+16:47:42:093 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+16:47:42:253 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+16:47:43:001 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:47:43:296 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+16:47:43:502 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+16:47:44:722 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:47:44:782 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+16:47:45:504 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+16:47:45:504 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+16:47:45:519 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+16:47:45:751 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+16:47:46:385 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:47:46:705 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+16:47:47:026 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+16:47:47:623 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:47:52:674 [main] INFO  testCases.TC003_LoginTest_DDT - Login Fail
+16:47:52:675 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+16:47:52:681 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+16:47:52:794 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+16:47:53:349 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:53:09:559 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:53:25:633 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+16:53:25:891 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+16:53:26:415 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:53:26:674 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+16:53:26:800 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+16:53:28:017 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:53:28:106 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+16:53:28:771 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+16:53:28:779 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+16:53:28:800 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+16:53:29:021 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+16:53:29:540 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:53:29:849 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+16:53:30:310 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+16:53:32:000 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:53:32:084 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+16:53:32:783 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+16:53:32:784 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+16:53:32:790 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+16:53:32:998 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+16:53:33:583 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:53:33:854 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+16:53:34:056 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+16:53:34:552 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+16:53:39:619 [main] INFO  testCases.TC003_LoginTest_DDT - Login Fail
+16:53:39:619 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+16:54:22:363 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:55:37:060 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+16:58:13:043 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+17:01:55:421 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+17:03:53:430 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+17:04:07:856 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+17:04:08:103 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+17:04:08:628 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:04:08:991 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+17:04:09:171 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+17:04:10:103 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:04:10:190 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+17:04:10:868 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+17:04:10:877 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+17:04:10:922 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+17:04:11:041 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+17:04:11:493 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:04:11:722 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+17:04:11:932 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+17:04:12:875 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:04:12:938 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+17:04:13:604 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+17:04:13:605 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+17:04:13:619 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+17:04:13:891 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+17:04:14:489 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:04:15:032 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+17:04:15:274 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+17:04:15:959 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:04:21:011 [main] INFO  testCases.TC003_LoginTest_DDT - Login Fail
+17:04:21:012 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+17:04:43:437 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+17:04:55:372 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+17:04:55:632 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+17:04:56:136 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:04:56:473 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+17:04:56:655 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+17:04:57:491 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:04:57:599 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+17:04:58:197 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+17:04:58:203 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+17:04:58:218 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+17:04:58:351 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+17:04:58:729 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:04:59:075 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+17:04:59:280 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+17:05:00:310 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:05:00:377 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+17:05:01:491 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+17:05:01:495 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+17:05:01:518 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+17:05:01:738 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+17:05:02:400 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:05:02:715 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+17:05:02:901 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+17:05:06:248 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:05:11:330 [main] INFO  testCases.TC003_LoginTest_DDT - Login Fail
+17:05:11:330 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+17:05:11:335 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+17:05:11:474 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+17:05:11:844 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:07:51:178 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+17:08:02:439 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+17:08:02:787 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+17:08:03:415 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:08:03:809 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+17:08:03:964 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+17:08:04:915 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:08:05:004 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+17:08:05:593 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+17:08:05:598 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+17:08:05:624 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+17:08:05:741 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+17:08:06:102 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:08:06:343 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+17:08:06:511 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+17:08:07:517 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:08:07:580 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+17:08:08:211 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+17:08:08:212 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+17:08:08:224 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+17:08:08:447 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+17:08:08:897 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:08:09:315 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+17:08:09:703 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+17:08:10:449 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:08:15:556 [main] INFO  testCases.TC003_LoginTest_DDT - Login Fail
+17:08:15:556 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+17:08:15:563 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+17:08:15:706 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+17:08:16:066 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:08:16:261 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+17:08:16:401 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+17:08:17:299 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:08:17:360 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+17:08:17:871 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+17:08:17:871 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+17:44:41:453 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+17:45:42:193 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\DDT.xml
+
+17:45:56:695 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+17:45:57:137 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+17:45:57:977 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:45:58:375 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+17:45:58:610 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+17:46:01:144 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:46:01:504 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+17:46:02:120 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+17:46:02:135 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+17:46:02:172 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+17:46:02:322 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+17:46:02:742 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:46:02:999 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+17:46:03:171 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+17:46:03:318 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:46:04:225 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+17:46:04:787 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+17:46:04:787 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+17:46:04:803 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+17:46:04:927 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+17:46:05:518 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:46:05:760 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+17:46:05:900 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+17:46:06:512 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:46:11:574 [main] INFO  testCases.TC003_LoginTest_DDT - Login Fail
+17:46:11:574 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+17:46:11:581 [main] INFO  testCases.TC003_LoginTest_DDT - **START loginValidData**
+17:46:11:691 [main] INFO  testCases.TC003_LoginTest_DDT - click on My Account
+17:46:12:074 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:46:12:284 [main] INFO  testCases.TC003_LoginTest_DDT - enter email
+17:46:12:427 [main] INFO  testCases.TC003_LoginTest_DDT - enter Password
+17:46:13:338 [main] INFO  testCases.TC003_LoginTest_DDT - click on Login
+17:46:13:384 [main] INFO  testCases.TC003_LoginTest_DDT - verify 'My Account' text Displayed
+17:46:13:894 [main] INFO  testCases.TC003_LoginTest_DDT - click on Logout from My Account Page
+17:46:13:894 [main] INFO  testCases.TC003_LoginTest_DDT - **Finish loginValidData**
+20:44:56:005 [main] INFO  testCases.TC001_AccountRegistrationTest - **START TC001_AccountRegistrationTest**
+20:45:09:114 [main] INFO  testCases.TC001_AccountRegistrationTest - **FINISH TC001_AccountRegistrationTest**
+20:45:26:928 [main] INFO  testCases.TC002_LoginTest - **START loginValidData**
+20:45:27:117 [main] INFO  testCases.TC002_LoginTest - click on My Account
+20:45:27:563 [main] INFO  testCases.TC002_LoginTest - click on Login
+20:45:27:894 [main] INFO  testCases.TC002_LoginTest - enter username
+20:45:28:052 [main] INFO  testCases.TC002_LoginTest - enter Password
+20:45:29:519 [main] INFO  testCases.TC002_LoginTest - click on Login
+20:45:29:649 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+20:45:30:987 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+20:45:30:987 [main] INFO  testCases.TC002_LoginTest - **Finish loginValidData**
+20:48:51:602 [main] INFO  testCases.TC001_AccountRegistrationTest - **START TC001_AccountRegistrationTest**
+20:48:58:409 [main] INFO  testCases.TC001_AccountRegistrationTest - **FINISH TC001_AccountRegistrationTest**
+20:49:03:417 [main] INFO  testCases.TC002_LoginTest - **START loginValidData**
+20:49:03:640 [main] INFO  testCases.TC002_LoginTest - click on My Account
+20:49:04:332 [main] INFO  testCases.TC002_LoginTest - click on Login
+20:49:04:621 [main] INFO  testCases.TC002_LoginTest - enter username
+20:49:04:807 [main] INFO  testCases.TC002_LoginTest - enter Password
+20:49:06:288 [main] INFO  testCases.TC002_LoginTest - click on Login
+20:49:06:389 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+20:49:07:227 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+20:49:07:227 [main] INFO  testCases.TC002_LoginTest - **Finish loginValidData**
+21:03:24:977 [main] INFO  testCases.TC001_AccountRegistrationTest - **START TC001_AccountRegistrationTest**
+21:03:30:537 [main] INFO  testCases.TC001_AccountRegistrationTest - **FINISH TC001_AccountRegistrationTest**
+21:03:43:097 [main] INFO  testCases.TC002_LoginTest - **START loginValidData**
+21:03:43:281 [main] INFO  testCases.TC002_LoginTest - click on My Account
+21:03:43:751 [main] INFO  testCases.TC002_LoginTest - click on Login
+21:03:44:048 [main] INFO  testCases.TC002_LoginTest - enter username
+21:03:44:218 [main] INFO  testCases.TC002_LoginTest - enter Password
+21:03:45:204 [main] INFO  testCases.TC002_LoginTest - click on Login
+21:03:45:303 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+21:03:45:923 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+21:03:45:924 [main] INFO  testCases.TC002_LoginTest - **Finish loginValidData**

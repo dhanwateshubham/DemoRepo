@@ -1,0 +1,63 @@
+14:17:13:980 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\master.xml
+
+14:17:31:454 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********************START*********************
+14:17:38:043 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********************FINISH*********************
+14:24:03:444 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\master.xml
+
+14:24:11:760 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********************START TC001_AccountRegistrationTest*********************
+14:24:16:724 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********************FINISHT C001_AccountRegistrationTest*********************
+14:24:27:171 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+14:24:27:399 [main] INFO  testCases.TC002_LoginTest - click on My Account
+14:24:28:099 [main] INFO  testCases.TC002_LoginTest - click on Login
+14:24:28:560 [main] INFO  testCases.TC002_LoginTest - enter username
+14:24:28:802 [main] INFO  testCases.TC002_LoginTest - enter Password
+14:24:29:742 [main] INFO  testCases.TC002_LoginTest - click on Login
+14:24:29:824 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+14:24:30:324 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+14:24:30:324 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+14:24:30:356 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+14:24:30:492 [main] INFO  testCases.TC002_LoginTest - click on My Account
+14:24:30:883 [main] INFO  testCases.TC002_LoginTest - click on Login
+14:24:31:236 [main] INFO  testCases.TC002_LoginTest - enter username
+14:24:31:355 [main] INFO  testCases.TC002_LoginTest - enter Password
+14:24:32:553 [main] INFO  testCases.TC002_LoginTest - click on Login
+14:24:32:735 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
+14:24:33:576 [main] INFO  testCases.TC002_LoginTest - click on Logout from My Account Page
+14:24:33:576 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+14:24:33:590 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+14:24:33:993 [main] INFO  testCases.TC002_LoginTest - click on My Account
+14:24:34:460 [main] INFO  testCases.TC002_LoginTest - click on Login
+14:24:35:016 [main] INFO  testCases.TC002_LoginTest - enter username
+14:24:35:450 [main] INFO  testCases.TC002_LoginTest - enter Password
+14:24:36:359 [main] INFO  testCases.TC002_LoginTest - click on Login
+14:24:47:348 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+14:27:12:237 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\master.xml
+
+14:29:35:593 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\master.xml
+
+14:29:42:044 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********************START TC001_AccountRegistrationTest*********************
+14:31:38:299 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\master.xml
+
+14:31:45:098 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********************START TC001_AccountRegistrationTest*********************
+14:32:50:017 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\master.xml
+
+14:32:57:846 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********************START TC001_AccountRegistrationTest*********************
+14:33:03:261 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********************FINISHT C001_AccountRegistrationTest*********************
+14:35:26:369 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SUREBIT\eclipse-workspace\OpenCartV12\master.xml
+
+14:35:31:378 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********************START TC001_AccountRegistrationTest*********************
+14:35:36:659 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********************FINISH TC001_AccountRegistrationTest*********************
+14:35:42:604 [main] INFO  testCases.TC002_LoginTest - ***********************START loginValidData*********************
+14:35:42:990 [main] INFO  testCases.TC002_LoginTest - click on My Account
+14:35:43:496 [main] INFO  testCases.TC002_LoginTest - click on Login
+14:35:43:876 [main] INFO  testCases.TC002_LoginTest - enter username
+14:35:44:113 [main] INFO  testCases.TC002_LoginTest - enter Password
+14:35:45:017 [main] INFO  testCases.TC002_LoginTest - click on Login
+14:35:45:101 [main] INFO  testCases.TC002_LoginTest - verify 'My Account' text Displayed
